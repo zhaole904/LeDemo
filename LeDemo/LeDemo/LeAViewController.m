@@ -20,7 +20,7 @@
     
     UILabel *lab = [[UILabel alloc] initWithFrame:CGRectMake(10, 100, 200, 30)];
     lab.backgroundColor = [UIColor redColor];
-    lab.text = @"LeDemo--0.1.1";
+    lab.text = @"LeDemo--0.1.2";
     [self.view addSubview:lab];
 }
 

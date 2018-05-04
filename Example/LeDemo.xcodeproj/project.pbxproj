@@ -64,7 +64,7 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		758E06AEC46FBED7E3174C4A /* Pods-LeDemo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LeDemo_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-LeDemo_Example/Pods-LeDemo_Example.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		907B6A1671498EEBEA92C5D6 /* LeDemole.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LeDemole.podspec; path = ../LeDemole.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		907B6A1671498EEBEA92C5D6 /* LeDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LeDemo.podspec; path = ../LeDemo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		BDB15421438EC5DC1E6AA667 /* libPods-LeDemo_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LeDemo_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8D1BE28D84B4ADC1BBE8EEE /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -189,7 +189,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				907B6A1671498EEBEA92C5D6 /* LeDemole.podspec */,
+				907B6A1671498EEBEA92C5D6 /* LeDemo.podspec */,
 				386ABF7516AA11D4F4BD5671 /* README.md */,
 				F8D1BE28D84B4ADC1BBE8EEE /* LICENSE */,
 			);

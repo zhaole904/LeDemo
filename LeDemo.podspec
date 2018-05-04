@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
-  s.name             = 'LeDemole'
-  s.version          = '0.1.1'
+  s.name             = 'LeDemo'
+  s.version          = '0.1.2'
   s.summary          = 'A short description of LeDemo.'
 
 # This description is used to generate tags and improve search results.
