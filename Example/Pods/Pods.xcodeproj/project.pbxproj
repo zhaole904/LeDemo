@@ -30,26 +30,26 @@
 /* Begin PBXFileReference section */
 		05C8A1D52648AF1B442336B459D12487 /* LeAViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LeAViewController.h; path = LeDemo/LeDemo/LeAViewController.h; sourceTree = "<group>"; };
 		076D11929FBA9D8EDBE86F00A1979015 /* Pods-LeDemo_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LeDemo_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		1D36EECB8F683319A5B8F700D7B87BAE /* LeDemo.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = LeDemo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		1D36EECB8F683319A5B8F700D7B87BAE /* LeDemole.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = LeDemole.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		1DE48C36F41DB5EC370795F6F62E2F30 /* Pods-LeDemo_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LeDemo_Example-resources.sh"; sourceTree = "<group>"; };
 		2B345635A04845149770FFF16B7834FB /* Pods-LeDemo_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LeDemo_Example-dummy.m"; sourceTree = "<group>"; };
 		39B2EF3F8FE12E4A472E6D6D509ED85C /* Pods-LeDemo_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LeDemo_Tests-dummy.m"; sourceTree = "<group>"; };
 		44D43C47322194EB0277FDE8B288D810 /* Pods-LeDemo_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LeDemo_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		4982A013850EF087DAE93FAE86E14203 /* Pods-LeDemo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LeDemo_Example.release.xcconfig"; sourceTree = "<group>"; };
 		50FD8A37083AA883D806330E56EBBE09 /* Pods-LeDemo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LeDemo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		6317E508414235657DE8443BB61E78D7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		6317E508414235657DE8443BB61E78D7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6B9669D52137A80AAD9F2D87CED00AC4 /* LeDemo-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LeDemo-prefix.pch"; sourceTree = "<group>"; };
 		724C6D602B72EF6AE73EFEE4C155574F /* Pods-LeDemo_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LeDemo_Example-frameworks.sh"; sourceTree = "<group>"; };
 		72C726E48D44955F093ECF4DC8E7F7BF /* LeDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LeDemo-dummy.m"; sourceTree = "<group>"; };
-		745A7A95114DAF5906D7D51EBC7BBE3B /* libPods-LeDemo_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-LeDemo_Tests.a"; path = "libPods-LeDemo_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		836DC7A4B1805AA1D4FC54BCE7F63C15 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		874F795F391CF6A38DCAAE14973C8D08 /* libLeDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libLeDemo.a; path = libLeDemo.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		745A7A95114DAF5906D7D51EBC7BBE3B /* libPods-LeDemo_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LeDemo_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		836DC7A4B1805AA1D4FC54BCE7F63C15 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		874F795F391CF6A38DCAAE14973C8D08 /* libLeDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libLeDemo.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B2C95BCABC824EAC5FA2C233E3D380C /* Pods-LeDemo_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LeDemo_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		90D280B3E4C06CC728C55402F7962689 /* Pods-LeDemo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LeDemo_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		98D4F80582DED07A6548E45F4482C490 /* LeDemo.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LeDemo.xcconfig; sourceTree = "<group>"; };
-		A74752A097A3B30A56C690EE1C1F5D34 /* libPods-LeDemo_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-LeDemo_Example.a"; path = "libPods-LeDemo_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A74752A097A3B30A56C690EE1C1F5D34 /* libPods-LeDemo_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LeDemo_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9F9F958AD71262CF109FBEDA4625E61 /* Pods-LeDemo_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LeDemo_Tests-resources.sh"; sourceTree = "<group>"; };
 		B39C61FDC72B57F4BDCCAB28710FD8BC /* LeAViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LeAViewController.m; path = LeDemo/LeDemo/LeAViewController.m; sourceTree = "<group>"; };
 		BEDBB71CB6AF3E607BDADD75345201B3 /* Pods-LeDemo_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LeDemo_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -187,7 +187,7 @@
 		ACF652C555A43AB09924EDDC49AEF827 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				1D36EECB8F683319A5B8F700D7B87BAE /* LeDemo.podspec */,
+				1D36EECB8F683319A5B8F700D7B87BAE /* LeDemole.podspec */,
 				6317E508414235657DE8443BB61E78D7 /* LICENSE */,
 				836DC7A4B1805AA1D4FC54BCE7F63C15 /* README.md */,
 			);
