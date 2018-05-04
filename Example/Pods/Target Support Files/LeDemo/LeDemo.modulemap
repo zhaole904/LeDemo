@@ -1,0 +1,6 @@
+framework module LeDemo {
+  umbrella header "LeDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

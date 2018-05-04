@@ -1,0 +1,18 @@
+PODS:
+  - LeDemo (0.1.0):
+    - LeDemo/LeDemo (= 0.1.0)
+  - LeDemo/LeDemo (0.1.0)
+
+DEPENDENCIES:
+  - LeDemo (from `../`)
+
+EXTERNAL SOURCES:
+  LeDemo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LeDemo: 9bb22568754db85401e30ca3f5fb4f0b034bcc30
+
+PODFILE CHECKSUM: d9ada673733daeee210c0f13fa3f6afc2f9cd83e
+
+COCOAPODS: 1.4.0
