@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F589195388D20070C39A"
-               BuildableName = "LeDemole_Example.app"
-               BlueprintName = "LeDemole_Example"
+               BuildableName = "LeDemo_Example.app"
+               BlueprintName = "LeDemo_Example"
                ReferencedContainer = "container:LeDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -34,8 +34,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6003F5AD195388D20070C39A"
-               BuildableName = "LeDemole_Tests.xctest"
-               BlueprintName = "LeDemole_Tests"
+               BuildableName = "LeDemo_Tests.xctest"
+               BlueprintName = "LeDemo_Tests"
                ReferencedContainer = "container:LeDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -44,8 +44,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "LeDemole_Example.app"
-            BlueprintName = "LeDemole_Example"
+            BuildableName = "LeDemo_Example.app"
+            BlueprintName = "LeDemo_Example"
             ReferencedContainer = "container:LeDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -68,8 +68,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "LeDemole_Example.app"
-            BlueprintName = "LeDemole_Example"
+            BuildableName = "LeDemo_Example.app"
+            BlueprintName = "LeDemo_Example"
             ReferencedContainer = "container:LeDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -87,8 +87,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6003F589195388D20070C39A"
-            BuildableName = "LeDemole_Example.app"
-            BlueprintName = "LeDemole_Example"
+            BuildableName = "LeDemo_Example.app"
+            BlueprintName = "LeDemo_Example"
             ReferencedContainer = "container:LeDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

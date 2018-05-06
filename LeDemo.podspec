@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LeDemo'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'A short description of LeDemo.'
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,12 @@ TODO: Add long description of the pod here.
 s.subspec 'LeDemo'   do |ss|
     ss.source_files           = 'LeDemo/LeDemo/**/*.{h,m}'
 end
-  
+
+s.subspec 'UIKit' do |ss|
+    ss.resources               = 'LeDemo/LeDemo/ImageResources/LeBundle.bundle'
+    
+end
+
   # s.resource_bundles = {
   #   'LeDemo' => ['LeDemo/Assets/*.png']
   # }

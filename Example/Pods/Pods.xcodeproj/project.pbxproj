@@ -35,6 +35,7 @@
 		2B345635A04845149770FFF16B7834FB /* Pods-LeDemo_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LeDemo_Example-dummy.m"; sourceTree = "<group>"; };
 		39B2EF3F8FE12E4A472E6D6D509ED85C /* Pods-LeDemo_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LeDemo_Tests-dummy.m"; sourceTree = "<group>"; };
 		44D43C47322194EB0277FDE8B288D810 /* Pods-LeDemo_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LeDemo_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		46BD4E78209EF7540022ABAA /* LeBundle.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = LeBundle.bundle; sourceTree = "<group>"; };
 		4982A013850EF087DAE93FAE86E14203 /* Pods-LeDemo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LeDemo_Example.release.xcconfig"; sourceTree = "<group>"; };
 		50FD8A37083AA883D806330E56EBBE09 /* Pods-LeDemo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LeDemo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6317E508414235657DE8443BB61E78D7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
@@ -130,6 +131,15 @@
 			path = "Example/Pods/Target Support Files/LeDemo";
 			sourceTree = "<group>";
 		};
+		46BD4E77209EF7460022ABAA /* ImageResources */ = {
+			isa = PBXGroup;
+			children = (
+				46BD4E78209EF7540022ABAA /* LeBundle.bundle */,
+			);
+			name = ImageResources;
+			path = LeDemo/LeDemo/ImageResources;
+			sourceTree = "<group>";
+		};
 		64A65E7C1850F7364A643A1F79089B68 /* Pods-LeDemo_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -167,6 +177,7 @@
 		84689478B5EDDAB46579B7EC2E251DEF /* LeDemo */ = {
 			isa = PBXGroup;
 			children = (
+				46BD4E77209EF7460022ABAA /* ImageResources */,
 				05C8A1D52648AF1B442336B459D12487 /* LeAViewController.h */,
 				B39C61FDC72B57F4BDCCAB28710FD8BC /* LeAViewController.m */,
 			);
